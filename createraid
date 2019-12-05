@@ -1,0 +1,24 @@
+<!''' This is really incomplete
+<!DOCTYPE html>
+<html>
+<head>
+<title>Create Raid</title>
+</head>
+<body>
+<p>Give your raid a title:</p>
+<input value="Title"/>
+
+<p>Enter the location:</p>
+<input value="Location"/>
+
+<p>Map:</p>
+<img src="SWEN101_1.jpg" alt="Raid Map">
+
+
+<p>Describe the raid's purpose, end goal, and anything else you want others to see:</p>
+<input value="Description"/>
+
+<img src="" href=""/>
+
+</body>
+</html>
