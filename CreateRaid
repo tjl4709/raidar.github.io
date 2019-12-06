@@ -1,0 +1,19 @@
+<body>
+
+<div align="left">
+	<button>Back</button>
+</div>
+<p>    </p>
+<input placeholder="Enter a name for your raid..." style="width:500px;"/>
+<p>    </p>
+<input placeholder="Enter a location or choose a spot on the map..."     style="width:500px; height:50px;"/>
+<p>    </p>
+<img src="https://imgur.com/e2Ukz0Y" alt="Map">
+<p>    </p>
+<input placeholder="Enter a description for your raid..." style="width:500px; height:100px;"/>
+<p>    </p>
+<a href="https://tjl4709.github.io/raidar.github.io/viewraid.html">
+	<button>Create</button></a>
+    
+</body>    
+</html>
