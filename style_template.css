@@ -1,11 +1,11 @@
-body{background-image: linear-gradient(180deg, lightpink, goldenrod);}
+body{background-image: linear-gradient(180deg, black, black);}
 .center{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
-h1{color: lightblue;
-	font-family: times new roman;
+h1{color: yellow;
+	font-family: courier new;
 	text-align:center;
 }
 h2{color: white;
