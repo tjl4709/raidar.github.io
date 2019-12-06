@@ -1,0 +1,13 @@
+<html>
+<title>HTML Tutorial</title>
+<body>
+
+
+<p> Your medical aid request has been sent!
+   </p>
+
+<a align= center href="https://tjl4709.github.io/raidar.github.io/viewraid.html">
+	<button>Return to Raid Info Page</button></a>
+    
+</body>    
+</html>
