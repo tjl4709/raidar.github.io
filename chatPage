@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style_template.css">
+<title>Chat</title>
+<div align="left"> <a href="https://tjl4709.github.io/raidar.github.io/viewraid.html">
+	<button>Back</button> </a>
+</div>
+<div align="center"><h1>Chat</h1></div>
+</head>
+
+<body>
+    <form>
+      <fieldset>
+        <legend>Da boys</legend>
+        <p>
+          <right><img src="https://t3.ftcdn.net/jpg/00/64/67/80/240_F_64678017_zUpiZFjj04cnLri7oADnyMH0XBYyQghG.jpg" alt="Profile Image" width=30px;></right>
+        
+        <input placeholder="vjhslhjvw heclk he clkh" style="width:500px; height:50px;"/>
+        </p>
+        
+ <p><left><img src="https://t3.ftcdn.net/jpg/00/64/67/80/240_F_64678017_zUpiZFjj04cnLri7oADnyMH0XBYyQghG.jpg" alt="Profile Image" width=30px;></left>
+        
+        <input placeholder="vjhslhjvw heclkhl cehcwvw he clkh" style="width:500px; height:50px;"/>
+        </p>
+
+ 
+<table style="width:100%">
+  <tr>
+  <td><input type="text" style="width:120%;"/></td>
+    <td><div align="right"><button>Send</button></div></td>
+  </tr>
+ 
+    
+</body>    
+</html>
